@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariano Gomez Brumana</h1>
 <h3 align="center">sre's & dba Manager</h3>
 
-- 🔭 I’m currently working on **Dafiti**
+- 🔭 I’m currently working on **Talana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
